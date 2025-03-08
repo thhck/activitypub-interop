@@ -6,7 +6,7 @@ https://solid.github.io/activitypub-interop/
 
 ## Background
 
-Please [Integrating ActivityPub within Solid specs](https://forum.solidproject.org/t/integrating-activitypub-within-solid-specs/8355) on Solid forum.
+Please refer to [Integrating ActivityPub within Solid specs](https://forum.solidproject.org/t/integrating-activitypub-within-solid-specs/8355) on Solid forum.
 
 ## Invited gruops
 
